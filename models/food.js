@@ -3,3 +3,5 @@ const food = {
     price: 202,
     image: 'https://imgur.com/UEx7cYk'
 }
+
+module.exports = food;
