@@ -9,6 +9,8 @@ const food = require('./models/food');
 // console.log({
 //     drinks: drinks
 // })
+//test
+
 // res.render('drinks.ejs', {drinks})
 //2. how can i console.log { food: [...the object from ./models/food]}
 
